@@ -1,0 +1,17 @@
+# Node
+node_modules/
+*.log
+
+tomato_dcnn_proposed_final.h5
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
